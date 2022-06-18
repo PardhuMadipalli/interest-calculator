@@ -1,0 +1,13 @@
+
+.input-label {
+    text-align: right;
+}
+
+.value {
+    padding-left: 15px;
+    /*padding-right: 10px;*/
+}
+
+.input-table td {
+    padding-bottom: 15px;
+}
