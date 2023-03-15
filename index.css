@@ -11,3 +11,8 @@
 .input-table td {
     padding-bottom: 15px;
 }
+
+
+.history-table td {    
+    text-align: center;
+}
